@@ -1,0 +1,6 @@
+* My TODO List
+
+** TODO Get comfortable with the command line
+** TODO Configure git to my liking
+** TODO Apply this knowledge everywhere
+
